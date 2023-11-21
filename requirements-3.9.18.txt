@@ -1,0 +1,5 @@
+altair==5.1.2
+geopandas==0.14.1
+ipyleaflet==0.17.4
+jupyterlab==3.6.3
+pandas==2.1.3
